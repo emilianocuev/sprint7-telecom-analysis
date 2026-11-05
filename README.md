@@ -15,7 +15,7 @@ Etapas de análisis:
 
 Como Ejecutar:
 Haz clic en el siguiente botón:
-[![Open In Colab]([[https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/drive/1l0QyvZNtr8v6G-rngJ52Gh-KE6Vmdmrf?usp=sharing)])]
+https://colab.research.google.com/drive/1l0QyvZNtr8v6G-rngJ52Gh-KE6Vmdmrf?usp=sharing 
 
 O:
 
